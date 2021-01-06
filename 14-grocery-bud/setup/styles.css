@@ -326,3 +326,8 @@ Grocery List
 .clear-btn:hover {
   color: var(--clr-red-dark);
 }
+
+.grocery-list {
+  overflow-y: scroll;
+  max-height: 25rem;
+}
